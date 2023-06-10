@@ -3,4 +3,4 @@
 ### A package for Envoy-ChatGPT
 
 # Install
-pip install Envoy-Cloud==0.1.1
+pip install Envoy-Cloud==0.1.5
